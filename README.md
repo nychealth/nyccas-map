@@ -1,2 +1,2 @@
 # nyccas-map
-An interactive map of NYCCAS monitor locations and traffic counts
+An interactive map of NYCCAS monitor and NYSDOT traffic short count locations
